@@ -1,1 +1,2 @@
-# Alfredorincon14.github.io.Web-Visualization-Dashboard-Latitude-
+
+https://Alfredorincon14.github.io/Web-Visualization-Dashboard/
